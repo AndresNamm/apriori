@@ -1,0 +1,1 @@
+Copied from https://gist.github.com/RtiM0/82af64d37ebd4bb939b3cdf521f21414
